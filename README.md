@@ -9,4 +9,11 @@ and install the dependencies
 ```
 npm install
 ```
+
+##create .env file
+MONGO_DB_URL = 'mongodburl'
+PORT=5000   
+MY_PRIVATE_KEY = 'myprivatekey'
+
+
 npm start
