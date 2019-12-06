@@ -11,8 +11,11 @@ npm install
 ```
 
 ##create .env file
+
 MONGO_DB_URL = 'mongodburl'
-PORT=5000   
+
+PORT=PORT_NUMBER   
+
 MY_PRIVATE_KEY = 'myprivatekey'
 
 
